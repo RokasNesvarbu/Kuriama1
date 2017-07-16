@@ -553,7 +553,7 @@ i.icon.icon-time {
     background: #FFFFFF;
 }
 .user-content.profile .meta .blurb input {
-    background: #205d25;
+    background: #002FFF;
     box-shadow: inset 0 0 0 1px #277531 !important;
 }
 .subscribe-button {
@@ -567,13 +567,13 @@ i.icon.icon-time {
 }
 .experience .levels .level.earned.ep .label,
 .experience .levels .level.earned.pp .label {
-    background: #2db13e;
+    background: #002FFF;
 }
 .experience .boxes .box .label {
-    background: #656f4e;
+    background: #002FFF;
 }
 .experience .boxes .box:nth-child(2n+1) .label {
-    background: #818a72;
+    background: #002FFF;
 }
 .experience .levels .level.mystery .label span {
     color: #EEE;
@@ -591,33 +591,33 @@ i.icon.icon-time {
 /* Inventory */
 .user-content .grid .cell .top {
     background: #2c3528;
-    background: -moz-linear-gradient(top,#2c3528 0,#20251c 56%,#131711 73%,#2f3e34 100%);
+    background: -moz-linear-gradient(top,#002FFF 0,#002FFF 56%,#002FFF 73%,#002FFF 100%);
     background: -webkit-gradient(linear,left top,left bottom,color-stop(0,#2c3528),color-stop(56%,#20251c),color-stop(73%,#131711),color-stop(100%,#2f3e34));
-    background: -webkit-linear-gradient(top,#2c3528 0,#20251c 56%,#131711 73%,#2f3e34 100%);
-    background: -o-linear-gradient(top,#2c3528 0,#20251c 56%,#131711 73%,#2f3e34 100%);
-    background: -ms-linear-gradient(top,#2c3528 0,#20251c 56%,#131711 73%,#2f3e34 100%);
-    background: linear-gradient(to bottom,#2c3528 0,#20251c 56%,#131711 73%,#2f3e34 100%);
+    background: -webkit-linear-gradient(top,#002FFF 0,#002FFF 56%,#002FFF 73%,#002FFF 100%);
+    background: -o-linear-gradient(top,#002FFF 0,#002FFF 56%,#002FFF 73%,#002FFF 100%);
+    background: -ms-linear-gradient(top,#002FFF 0,#002FFF 56%,#002FFF 73%,#2002FFF 100%);
+    background: linear-gradient(to bottom,#002FFF 0,#002FFF 56%,#002FFF 73%,#002FFF 100%);
 }
 .user-content .grid .cell:hover>.top {
     background: #215617;
-    background: -moz-linear-gradient(top,#215617 0,#153311 56%,#141b0e 73%,#2b4225 100%);
+    background: -moz-linear-gradient(top,#002FFF 0,#002FFF 56%,#1002FFF 73%,#002FFF 100%);
     background: -webkit-gradient(linear,left top,left bottom,color-stop(0,#215617),color-stop(56%,#153311),color-stop(73%,#141b0e),color-stop(100%,#2b4225));
-    background: -webkit-linear-gradient(top,#215617 0,#153311 56%,#141b0e 73%,#2b4225 100%);
-    background: -o-linear-gradient(top,#215617 0,#153311 56%,#141b0e 73%,#2b4225 100%);
-    background: -ms-linear-gradient(top,#215617 0,#153311 56%,#141b0e 73%,#2b4225 100%);
-    background: linear-gradient(to bottom,#215617 0,#153311 56%,#141b0e 73%,#2b4225 100%);
+    background: -webkit-linear-gradient(top,#002FFF,#002FFF 56%,#002FFF 73%,#002FFF 100%);
+    background: -o-linear-gradient(top,#002FFF 0,#002FFF 56%,#002FFF 73%,#002FFF 100%);
+    background: -ms-linear-gradient(top,#002FFF 0,#002FFF 56%,#002FFF 73%,#002FFF 100%);
+    background: linear-gradient(to bottom,#002FFF 0,#002FFF 56%,#002FFF 73%,#002FFF 100%);
 }
 #user-inventory .badges .grid .cell {
-    background: #212121;
+    background: #002FFF;
 }
 #user-inventory .badges .grid .cell:hover {
-    background: #333333;
+    background: #002FFF;
 }
 #user-inventory .badges .grid .cell.selected {
     background: url(https://rawgit.com/Satskhi/EDTRCS/master/images/Icons/badgebghover.png);
-    -webkit-box-shadow: inset 0 0 0 2px #93b726;
-    -moz-box-shadow: inset 0 0 0 2px #93b726;
-    box-shadow: inset 0 0 0 2px #93b726;
+    -webkit-box-shadow: inset 0 0 0 2px #002FFF;
+    -moz-box-shadow: inset 0 0 0 2px #002FFF;
+    box-shadow: inset 0 0 0 2px #002FFF;
     cursor: default;
 }
 /* Store */
@@ -626,7 +626,7 @@ i.icon.icon-time {
     background: linear-gradient(#333, #222);
 }
 #user-store .badges .grid .cell:hover>.top {
-    background: url(https://rawgit.com/Satskhi/EDTRCS/master/images/Icons/badgebghover.png);
+    background: url();
 }
 /* Friends */
 #user-friends .list .row {
@@ -715,15 +715,15 @@ i.icon.icon-time {
     background: var(--yellow-green-gradient);
 }
 .dialog.no-submit .button.submit {
-    background: #151515 !important;
+    background: #002FFF !important;
     color: #555 !important;
 }
 .dialog .button.cancel {
-    background: #3e1616 !important;
+    background: #002FFF !important;
     color: #755;
 }
 .dialog .button.cancel:hover {
-    background: #671e1e !important;
+    background: #002FFF !important;
     color: #A55;
 }
 /*
@@ -797,20 +797,20 @@ i.icon.icon-time {
     background: linear-gradient(rgb(30,30,30), rgb(40,40,40)) !important;
 }
 #playlist-panel #search-bar {
-    -webkit-box-shadow: inset 0 0 0 1px #57832b !important;
-    -moz-box-shadow: inset 0 0 0 1px #57832b !important;
-    box-shadow: inset 0 0 0 1px #57832b !important;
+    -webkit-box-shadow: inset 0 0 0 1px #002FFF !important;
+    -moz-box-shadow: inset 0 0 0 1px #002FFF !important;
+    box-shadow: inset 0 0 0 1px #002FFF !important;
 }
 #search-menu .bar-divider {
-    background: #6da436;
+    background: #002FFF;
 }
 #search-menu,
 #search-menu li,
 #user-lists .header .button.staff.selected {
-    border-color: #6da436 !important;
+    border-color: #002FFF !important;
 }
 #search-menu li:hover {
-    background: #6da436;
+    background: #002FFF;
 }
 #playlist-activate-button.active i,
 #playlist-menu .menu .row .activate-button .icon.icon-check-purple {
@@ -920,7 +920,7 @@ i.icon.icon-time {
  separated from roles to
  maintain correct priorities */
 #user-lists .group.host {
-    color: #31CE31;
+    color: #0051FF;
     background: linear-gradient(to right, hsla(120,61%,30%,.5), hsla(120,61%,20%,.5)) !important;
 }
 #user-lists .group.host ~ .user:nth-child(2) span {
