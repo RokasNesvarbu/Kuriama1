@@ -1,21 +1,21 @@
 /* Woot Add Meh */
 #woot .bottom, #woot.selected {
-background: #0044FF !important;
+background: #FFD700 !important;
 }
 .votes-rs .title.woot {
-background: #0044FF !important;
+background: #FFD700 !important;
 }
 #grab .bottom, #grab.selected {
-background: #aa74ff;
+background: #00FF2F;
 }
 .votes-rs .title.grab {
-    background: #aa74ff !important;
+    background: #00FF2F !important;
 }
 #meh .bottom, #meh.selected {
-    background: #FC00FF;
+    background: #800000;
 }
 .votes-rs .title.meh {
-    background: #FC00FF !important;
+    background: #800000 !important;
 }
 #woot.selected .icon, #grab.selected .icon, #meh.selected .icon {
     animation: pulse 1s ease infinite;
