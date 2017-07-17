@@ -6,10 +6,10 @@ background: #A2A200 !important;
 background: #A2A200 !important;
 }
 #grab .bottom, #grab.selected {
-background: #00FF2F;
+background: #30CE00;
 }
 .votes-rs .title.grab {
-    background: #00FF2F !important;
+    background: #30CE00 !important;
 }
 #meh .bottom, #meh.selected {
     background: #800000;
